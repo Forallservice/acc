@@ -1,0 +1,11 @@
+当然首先你要会安装android studio
+先建立一个空工程
+取名acc
+然后建立一个java文件
+类名为myservice
+然后把代码粘贴减去
+其次把AndroidManifest.xml的内容也粘贴修改成这样
+然后在res下建立一个xml目录
+同时建立一个accessibility_service_config.xml文件
+把内容粘贴修改成这样
+最后运行即可在手机上安装无障碍服务
